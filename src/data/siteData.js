@@ -6,7 +6,7 @@ export const site = {
   "phone": "(240) 555-0138",
   "email": "build@deckbuilderfrederick.com",
   "category": "Deck builder",
-  "hero": "Cinematic Deck Building in Frederick",
+  "hero": "Deck Building in Frederick",
   "sub": "Custom decks, resurfacing, railings, stairs, pergolas, and outdoor living spaces planned for Maryland weather and Frederick homes.",
   "accent": "#c77c37",
   "dark": "#171411",
