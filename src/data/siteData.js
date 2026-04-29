@@ -7,7 +7,17 @@ export const site = {
   "email": "build@deckbuilderfrederick.com",
   "category": "Deck builder",
   "hero": "Deck Building in Frederick",
-  "sub": "Custom decks, resurfacing, railings, stairs, pergolas, and outdoor living spaces planned for Maryland weather and Frederick homes.",
+  "sub": "Build a deck you can trust, use, and enjoy without vague pricing, slow timelines, or messy execution.",
+  "homeLead": "Your Deck Should Feel Like An Upgrade, Not A Risk",
+  "homePain": "If boards are aging, stairs feel unsafe, or your layout no longer fits how you live, the problem will not fix itself.",
+  "homePromise": "You get a clear plan, a clean build path, and a finished result that feels solid every time you step outside.",
+  "homeBullets": [
+    "Clear scope before work starts",
+    "Pricing drivers explained in plain English",
+    "Frederick-specific planning for weather and permits",
+    "Clean jobsite standards from start to finish"
+  ],
+  "homeClose": "Ready To Turn Your Backyard Into A Space You Actually Use?",
   "accent": "#c77c37",
   "dark": "#171411",
   "light": "#f7f1e8",
