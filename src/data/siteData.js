@@ -18,6 +18,11 @@ export const site = {
     "Clean jobsite standards from start to finish"
   ],
   "homeClose": "Ready To Turn Your Backyard Into A Space You Actually Use?",
+  "homeVisualTitle": "A Better Deck Starts With A Better Plan",
+  "homeVisualBody": "Before boards go down, the structure, stairs, railings, traffic flow, and access all need to make sense. That is where costly deck problems are prevented.",
+  "homeResultTitle": "From Rough Idea To Ready-To-Use Outdoor Space",
+  "homeResultBody": "The right deck should feel sturdy, look intentional, and make your home easier to enjoy. We help you get there with practical choices and a scope you can trust.",
+  "homeFinalBody": "Tell us what you want fixed, replaced, or built. We will help you separate must-do work from nice-to-have upgrades and give you a clear next step.",
   "accent": "#c77c37",
   "dark": "#171411",
   "light": "#f7f1e8",
